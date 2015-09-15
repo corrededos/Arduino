@@ -1,2 +1,4 @@
 # Arduino
-Stuff I need version controlled. For inspiration and swift code, maybe you should look elsewhere
+Stuff I need version controlled. For inspiration and swift code, maybe you should look elsewhere :)
+Happy coding!
+
