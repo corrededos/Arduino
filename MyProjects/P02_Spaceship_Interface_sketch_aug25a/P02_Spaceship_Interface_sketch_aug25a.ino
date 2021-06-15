@@ -11,7 +11,7 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   
-  //Check to se if there is any voltage on pin 2 with digital read, High = yes = switch (button) pressed, LOW = no = button not pressed.
+  //Check to se if there is any voltage on pin 2 with digital read, High = yes = switch (button) pressed, LOW = no = button not pressed. åäö
   
   //Read pin 2
   switchState = digitalRead(2);
